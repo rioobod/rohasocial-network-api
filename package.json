@@ -1,0 +1,19 @@
+{
+  "name": "rohasocial-network-api",
+  "version": "1.0.0",
+  "description": "An API for a social network web application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rioobod/rohasocial-network-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rioobod/rohasocial-network-api/issues"
+  },
+  "homepage": "https://github.com/rioobod/rohasocial-network-api#readme"
+}
