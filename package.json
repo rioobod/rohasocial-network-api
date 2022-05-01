@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/rioobod/rohasocial-network-api/issues"
   },
-  "homepage": "https://github.com/rioobod/rohasocial-network-api#readme"
+  "homepage": "https://github.com/rioobod/rohasocial-network-api#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.3.1"
+  }
 }

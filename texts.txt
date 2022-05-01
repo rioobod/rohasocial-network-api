@@ -1,0 +1,14 @@
+localhost:3001/api/users
+
+{
+    "userName": "rioobod2",
+    "userEmail": "rioobod@hotmail.com",
+    "thoughts": "Personality Checks"
+   
+}
+
+{
+    "userName": "xxxxx",
+    "userEmail": "xxxxx@hotmail.com",
+    "thoughts": "Personality Checks xxxx"
+}
