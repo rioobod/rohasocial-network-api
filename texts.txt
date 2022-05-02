@@ -12,3 +12,11 @@ localhost:3001/api/users
     "userEmail": "xxxxx@hotmail.com",
     "thoughts": "Personality Checks xxxx"
 }
+
+//POST
+{
+    "userName": "zzzzz",
+    "userEmail": "zzzzz@hotmail.com",
+     "thoughts": "Personality Checks zzzzz"
+}
+//
