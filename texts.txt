@@ -3,20 +3,20 @@ localhost:3001/api/users
 {
     "userName": "rioobod2",
     "userEmail": "rioobod@hotmail.com",
-    "thoughts": "Personality Checks"
+    "thoughtText": "Personality Checks"
    
 }
 
 {
     "userName": "xxxxx",
     "userEmail": "xxxxx@hotmail.com",
-    "thoughts": "Personality Checks xxxx"
+    "thoughtText": "Personality Checks xxxx"
 }
 
 //POST
 {
     "userName": "zzzzz",
     "userEmail": "zzzzz@hotmail.com",
-     "thoughts": "Personality Checks zzzzz"
+     "thoughtText": "Personality Checks zzzzz"
 }
 //
